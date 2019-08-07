@@ -1,0 +1,172 @@
+{
+  "Admin" : {
+    "admin" : {
+      "email_admin" : "ujang@gmail.com",
+      "nama_admin" : "ujang",
+      "password" : "admin123",
+      "username" : "admin"
+    }
+  },
+  "MyTickets" : {
+    "aji66" : {
+      "username" : "aji66",
+      "wisata" : {
+        "Monas201751590" : {
+          "date_wisata" : "August 17, 2019",
+          "id_ticket" : "Monas201751590",
+          "jumlah_tiket" : "1",
+          "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+          "lokasi" : "Monas, Indonesia",
+          "nama_wisata" : "Monas",
+          "time_wisata" : "10AM to 12PM"
+        }
+      }
+    },
+    "deni" : {
+      "username" : "deni",
+      "wisata" : {
+        "Pisa-74961408" : {
+          "date_wisata" : "April 13, 2019",
+          "id_ticket" : "Pisa-74961408",
+          "jumlah_tiket" : "2",
+          "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+          "lokasi" : "Pisa, Italy",
+          "nama_wisata" : "Pisa",
+          "time_wisata" : "10AM to 12PM"
+        }
+      }
+    },
+    "yanti" : {
+      "username" : "yanti",
+      "wisata" : {
+        "Monas-158738364" : {
+          "date_wisata" : "August 17, 2019",
+          "id_ticket" : "Monas-158738364",
+          "jumlah_tiket" : "1",
+          "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+          "lokasi" : "Monas, Indonesia",
+          "nama_wisata" : "Monas",
+          "time_wisata" : "10AM to 12PM"
+        }
+      }
+    }
+  },
+  "Users" : {
+    "aji66" : {
+      "bio" : "travel",
+      "email_address" : "aji@gmail.com",
+      "nama_lengkap" : "aji imam",
+      "password" : "aji66",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Photousers%2Faji66%2F1565170049229.jpg?alt=media&token=56eca90e-9ea0-4204-aa55-054bbafdd8c3",
+      "user_balance" : 37,
+      "username" : "aji68"
+    },
+    "bayu" : {
+      "bio" : "ngods skuy",
+      "email_address" : "bayu@gmail.com",
+      "nama_lengkap" : "bayu",
+      "password" : "bayu",
+      "url_photo_profile" : "",
+      "user_balance" : "999",
+      "username" : "bayu"
+    },
+    "deni" : {
+      "bio" : "ngojay",
+      "email_address" : "deni@gmail.com",
+      "nama_lengkap" : "deni kun",
+      "password" : "deni",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Photousers%2Fdeni%2F1565125941739.jpg?alt=media&token=ab710fc6-fbea-45cc-93bc-afd6636e62bd",
+      "user_balance" : 10,
+      "username" : "deni"
+    },
+    "yanti" : {
+      "bio" : "ngajol",
+      "email_address" : "yanti@gmail.com",
+      "nama_lengkap" : "yantiskuy",
+      "password" : "yanti",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Photousers%2Fyanti%2F1565126013436.jpg?alt=media&token=b95f259e-486d-4341-b911-d2875ca93273",
+      "user_balance" : 37,
+      "username" : "yanti"
+    }
+  },
+  "Wisata" : {
+    "Candi" : {
+      "date_wisata" : "Juny 10, 2019",
+      "harga_tiket" : "90",
+      "is_festival" : "5 Festival",
+      "is_photo_spot" : "10 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+      "lokasi" : "Candi, Indonesia",
+      "nama_wisata" : "Candi",
+      "short_desc" : "The Leaning of the Tower of Pisa comes into the story in 1173, when construction began",
+      "time_wisata" : "10AM to 12PM",
+      "url_tumbhnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Wisata%2FCandi%2Fbgheader_candi.png?alt=media&token=d2814a01-8f18-4784-9447-4ecc0d733ff7"
+    },
+    "Monas" : {
+      "date_wisata" : "August 17, 2019",
+      "harga_tiket" : "13",
+      "is_festival" : "3 Festival",
+      "is_photo_spot" : "6 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+      "lokasi" : "Monas, Indonesia",
+      "nama_wisata" : "Monas",
+      "short_desc" : "The Leaning of the Tower of Pisa comes into the story in 1173, when construction began",
+      "time_wisata" : "10AM to 12PM",
+      "url_tumbhnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Wisata%2FMonas%2Fbgheader_monas.jpg?alt=media&token=c947ba01-912a-445e-8831-1303d466ff7d"
+    },
+    "Pagoda" : {
+      "date_wisata" : "May 12, 2019",
+      "harga_tiket" : "20",
+      "is_festival" : "3 Festival",
+      "is_photo_spot" : "7 Photo Spots",
+      "is_wifi" : "Wifi Not Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+      "lokasi" : "Pagoda, China",
+      "nama_wisata" : "Pagoda",
+      "short_desc" : "The Leaning of the Tower of Pisa comes into the story in 1173, when construction began",
+      "time_wisata" : "10AM to 12PM",
+      "url_tumbhnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Wisata%2FPagoda%2Fbgheader_pagoda.png?alt=media&token=a8028852-25bf-4f10-a5da-e589033fe4d0"
+    },
+    "Pisa" : {
+      "date_wisata" : "April 13, 2019",
+      "harga_tiket" : "20",
+      "is_festival" : "1 Festival",
+      "is_photo_spot" : "4 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+      "lokasi" : "Pisa, Italy",
+      "nama_wisata" : "Pisa",
+      "short_desc" : "The Leaning of the Tower of Pisa comes into the story in 1173, when construction began",
+      "time_wisata" : "10AM to 12PM",
+      "url_tumbhnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Wisata%2FPisa%2Fbgheader_pisa.png?alt=media&token=7cd90c93-2093-474d-9356-86dc79f04535"
+    },
+    "Spinx" : {
+      "date_wisata" : "Juny 7, 2019",
+      "harga_tiket" : "35",
+      "is_festival" : "2 Festival",
+      "is_photo_spot" : "9 Photo Spots",
+      "is_wifi" : "Wifi Not Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+      "lokasi" : "Spinx, Egypt",
+      "nama_wisata" : "Spinx",
+      "short_desc" : "The Leaning of the Tower of Pisa comes into the story in 1173, when construction began",
+      "time_wisata" : "10AM to 12PM",
+      "url_tumbhnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Wisata%2FSpinx%2Fbgheader_spinx.png?alt=media&token=40d2a926-d22e-40fe-88ec-df5a2e8e90e8"
+    },
+    "Tori" : {
+      "date_wisata" : "April 18, 2019",
+      "harga_tiket" : "25",
+      "is_festival" : "4 Festival",
+      "is_photo_spot" : "10 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak berumur 3 tahun wajib untuk membeli tiket",
+      "lokasi" : "Tori, Japan",
+      "nama_wisata" : "Tori",
+      "short_desc" : "The Leaning of the Tower of Pisa comes into the story in 1173, when construction began",
+      "time_wisata" : "10AM to 12PM",
+      "url_tumbhnail" : "https://firebasestorage.googleapis.com/v0/b/tiketsaya-1acf2.appspot.com/o/Wisata%2FTori%2Fbgheader_torri.png?alt=media&token=b2cac5a0-ee18-44b3-ba5f-a48e3eda1236"
+    }
+  }
+}
